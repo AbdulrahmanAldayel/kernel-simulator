@@ -1,7 +1,6 @@
 // Assignment 2 Part II
 
 // Abdulrahman Aldayel, 101142760
-// Nicholas Thibault, 101172413
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -505,3 +504,4 @@ int main(int argc, char *argv[]) {
     fclose(f4);
     return 0;
 }
+
