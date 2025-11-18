@@ -11,29 +11,29 @@ development skills—relevant for radio platform software, RTOS, and telecom env
 
 ## Features
 
-### ✔ CPU Scheduling Algorithms
+### CPU Scheduling Algorithms
 - **FCFS – First Come First Served**
 - **External Priority Scheduling**
 - **Round Robin** (configurable quantum)
 
-### ✔ Complete Process Lifecycle
+### Complete Process Lifecycle
 NEW → READY → RUNNING → WAITING → READY → TERMINATED
 
 - Preemption  
 - CPU burst tracking  
 - Timestamped event logging  
 
-### ✔ I/O Blocking Simulation
+### I/O Blocking Simulation
 - Custom I/O frequency & duration  
 - WAITING queue  
 - Automatic return to READY  
 
-### ✔ Fixed-Partition Memory Management
+### Fixed-Partition Memory Management
 - Static partition table  
 - Allocation & deallocation on arrival/termination  
 - Logs free/used memory and fragmentation  
 
-### ✔ Performance Metrics
+### Performance Metrics
 - Throughput  
 - Average turnaround time  
 - Total & average waiting time  
