@@ -4,9 +4,6 @@ This project is a C-based **operating system scheduler and memory manager simula
 It models CPU scheduling, process lifecycle transitions, I/O blocking, and fixed-partition
 memory allocation, providing detailed logs and performance metrics.
 
-Designed to strengthen low-level **systems**, **embedded**, and **kernel-style**
-development skills—relevant for radio platform software, RTOS, and telecom environments.
-
 ---
 
 ## Features
