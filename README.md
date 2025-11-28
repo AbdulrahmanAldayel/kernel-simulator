@@ -40,15 +40,3 @@ NEW → READY → RUNNING → WAITING → READY → TERMINATED
 - CPU burst statistics  
 - I/O response time  
 
----
-
-## Why This Matters
-
-This project demonstrates key skills used in **radio software, embedded systems, and Linux-based development**, including:
-
-- C systems programming  
-- Working with queues, event loops, and state machines  
-- OS scheduling logic  
-- Memory management  
-- Debugging under deterministic timing constraints  
-- Understanding kernel-level process behavior  
